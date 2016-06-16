@@ -14,6 +14,7 @@
  * /bin/check-es-heap.rb
  * /bin/check-es-node-status.rb
  * /bin/check-es-query-count.rb
+ * /bin/check-es-query-count-compare.rb
  * /bin/check-es-query-exists.rb
  * /bin/check-es-circuit-breakers.rb
  * /bin/metrics-es-cluster.rb

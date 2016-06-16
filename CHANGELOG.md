@@ -6,6 +6,7 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 ## [Unreleased]
 - Adding offset flag to allow specifying of a end time offset
 - Adding custom timestamp field feature to check-es-query-count and check-es-query-exists
+- Adding check-es-query-count-compare.rb plugin
 
 ## [0.4.3] - 2016-02-22
 ### Fixed
